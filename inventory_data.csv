@@ -1,0 +1,21 @@
+Product Name,Category,Supplier,Stock Quantity,Reorder Level,Unit Cost
+Product 1,Electronics,A,10,15,100
+Product 2,Furniture,B,50,15,40
+Product 3,Office,C,5,15,20
+Product 4,Grocery,D,80,15,10
+Product 5,Electronics,A,20,15,60
+Product 6,Furniture,B,10,15,100
+Product 7,Office,C,50,15,40
+Product 8,Grocery,D,5,15,20
+Product 9,Electronics,A,80,15,10
+Product 10,Furniture,B,20,15,60
+Product 11,Office,C,10,15,100
+Product 12,Grocery,D,50,15,40
+Product 13,Electronics,A,5,15,20
+Product 14,Furniture,B,80,15,10
+Product 15,Office,C,20,15,60
+Product 16,Grocery,D,10,15,100
+Product 17,Electronics,A,50,15,40
+Product 18,Furniture,B,5,15,20
+Product 19,Office,C,80,15,10
+Product 20,Grocery,D,20,15,60
